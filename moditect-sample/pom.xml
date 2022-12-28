@@ -16,9 +16,9 @@
     <dependencies>
 
         <dependency>
-            <groupId>commons-codec</groupId>
-            <artifactId>commons-codec</artifactId>
-            <version>1.15</version>
+            <groupId>com.github.yokra9</groupId>
+            <artifactId>yokra9-commons-codec</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
     </dependencies>
